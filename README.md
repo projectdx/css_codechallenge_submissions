@@ -47,18 +47,21 @@ Unfortunately, Github no longer allows you to fork a public repo and make it pri
 Renewable Funding has decided to enter the lucrative market of apparent-solar-time analysis.
 
 We want a user to be able to use our site to view an engaging design representing the sunrise and sunset in Portland for:
+
 1. The month of July 2017
 1. The week of July 2, 2017.
 1. July 4, 2017.
 
 The design should:
+
 1. make data easy to understand
 1. visually cohesive
 1. be responsive (small and large viewports)
 1. demonstrates well-structured CSS/SASS
 
- It does not:
- - have to be dynamic (no API calls, user interactions, etc.)
+It does not:
+
+1. have to be dynamic (no API calls, user interactions, etc.)
 
 ## Evaluation
 
