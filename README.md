@@ -49,8 +49,8 @@ Renewable Funding has decided to enter the lucrative market of apparent-solar-ti
 We want a user to be able to use our site to view an engaging design representing the sunrise and sunset in Portland for:
 
 1. The month of July 2017
-1. The week of July 2, 2017.
-1. July 4, 2017.
+1. The week of July 2, 2017
+1. July 4, 2017
 
 These times can be viewed at [sunrise/sunset](https://www.timeanddate.com/sun/usa/portland-or).
 
