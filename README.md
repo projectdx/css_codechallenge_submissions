@@ -65,6 +65,12 @@ It does not:
 
 1. have to be dynamic (no API calls, user interactions, etc.)
 
+#### Bonus options:
+
+1. effective use of css transitions to enhance the user experience
+1. use of BEM notation
+1. appropriate use of css precompiler (SASS/LESS) features (mixins, etc.)
+
 ## Evaluation
 
 Reviewers will assess your familiarity with standard libraries and single-page app best practices.
