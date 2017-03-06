@@ -57,9 +57,9 @@ These times can be viewed at [sunrise/sunset](https://www.timeanddate.com/sun/us
 The design should:
 
 1. make data easy to understand
-1. visually cohesive
+1. be visually cohesive
 1. be responsive (small and large viewports)
-1. demonstrates well-structured CSS/SASS
+1. demonstrate well-structured CSS/SASS
 
 It does not:
 
