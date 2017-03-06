@@ -52,7 +52,7 @@ We want a user to be able to use our site to view an engaging design representin
 1. The week of July 2, 2017.
 1. July 4, 2017.
 
-These times can be viewed at [sunrise/sunset](https://www.timeanddate.com/sun/usa/portland-or)
+These times can be viewed at [sunrise/sunset](https://www.timeanddate.com/sun/usa/portland-or).
 
 The design should:
 
