@@ -64,7 +64,8 @@ The design should:
 It does not:
 
 1. have to be dynamic (no API calls, user interactions, etc.)
-1. have to be a single webpage
+1. have to be a single webpage, multiple pages are okay
+1. have to be served, plain ol' HTML files are okay
 
 #### Bonus options:
 
