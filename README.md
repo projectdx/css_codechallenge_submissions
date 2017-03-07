@@ -10,7 +10,7 @@ Hi there! We're ecstatic that you're interested in working for Renew Financial's
 
 We currently use Bootstrap, Foundation and a home-spun UI pattern library but you may use any libraries or frameworks you wish.
 
-Feel free to email us at [mailto:codechallengeanon@renewfinancial.com](codechallengeanon@renewfinancial.com) if you have any questions.
+Feel free to email us at [codechallengeanon@renewfinancial.com](mailto:codechallengeanon@renewfinancial.com) if you have any questions.
 
 ## Submission Instructions
 
@@ -34,7 +34,7 @@ Feel free to email us at [mailto:codechallengeanon@renewfinancial.com](codechall
  zip -r submission_patches.zip submission_patches
  ```
 
-1. Email the .zip file to [mailto:codechallengeanon@renewfinancial.com](codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
+1. Email the .zip file to [codechallengeanon@renewfinancial.com](mailto:codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
 
 You submission will be anonymized before a developer on our team reviews it.
 
