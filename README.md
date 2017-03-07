@@ -14,35 +14,12 @@ Feel free to email us at [codechallengeanon@renewfinancial.com](mailto:codechall
 
 ## Submission Instructions
 
-1. Clone this repository.
-1. Create (and switch to) a new branch in your local repository:
-
- ```bash
- git checkout -b new-branch-name
- ```
-
-1. Complete the project as described below within your local repository.
-1. Create patches from your commits, and place them in a directory:
-
- ```bash
- git format-patch master -o submission_patches
- ```
-
-1. Create a .zip file with the contents of the patches directory:
-
- ```bash
- zip -r submission_patches.zip submission_patches
- ```
-
-1. Email the .zip file to [codechallengeanon@renewfinancial.com](mailto:codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
+1. Create your markup and css at codepen.io
+1. Email the link to the codepen to [codechallengeanon@renewfinancial.com](mailto:codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
 
 You submission will be anonymized before a developer on our team reviews it.
 
 If you have any questions about this submission process, feel free to email us.
-
-#### Why can't I just fork, and submit a pull request?
-
-Unfortunately, Github no longer allows you to fork a public repo and make it private, so your submission would be visible to the entire world. We'd love to keep this fair and not give the last responders a possible unfair advantage (since they'd be able to see all prior submissions); hence the patch method.
 
 ## Project Description
 
