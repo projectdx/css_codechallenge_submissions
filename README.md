@@ -1,10 +1,10 @@
 Renew Financial: css-code-challenge
 =================================
 
-Hi there! We're ecstatic that you're interested in working for Renew Financial's dev team. To get a better idea of your current development skills, we'd like for you to complete a code challenge - build a webpage according to a set of requirements. The actual business requirements are listed further down, but here are the general tech requirements:
+Hi there! We're ecstatic that you're interested in working for Renew Financial's dev team. To get a better idea of your current development skills, we'd like for you to complete a code challenge - build one or more webpages according to a set of requirements. The actual business requirements are listed further down, but here are the general tech requirements:
 
-1. Create a webpage.
-1. Make sure your webpage renders properly in Chrome and Firefox.
+1. Create one or more webpages.
+1. Make sure your webpages render properly in Chrome and Firefox.
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application locally.
 
@@ -64,6 +64,7 @@ The design should:
 It does not:
 
 1. have to be dynamic (no API calls, user interactions, etc.)
+1. have to be a single webpage
 
 #### Bonus options:
 
