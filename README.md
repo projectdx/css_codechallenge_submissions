@@ -14,7 +14,9 @@ Feel free to email us at [codechallengeanon@renewfinancial.com](mailto:codechall
 
 ## Submission Instructions
 
-1. Create your markup and css at codepen.io
+1. Create your markup and css at codepen.io.
+1. Save your codepen.io. You can save it using your github/facebook credentials, or anonymously.
+1. Make sure you can open the codepen in an incognito browser window to verify we can view it.
 1. Email the link to the codepen to [codechallengeanon@renewfinancial.com](mailto:codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
 
 You submission will be anonymized before a developer on our team reviews it.
