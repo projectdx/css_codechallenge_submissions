@@ -10,7 +10,7 @@ Hi there! We're ecstatic that you're interested in working for Renew Financial's
 
 We currently use Bootstrap, Foundation and a home-spun UI pattern library but you may use any libraries or frameworks you wish.
 
-Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you have any questions.
+Feel free to email us at [codechallengeanon@renewfinancial.com](codechallengeanon@renewfinancial.com) if you have any questions.
 
 ## Submission Instructions
 
@@ -34,7 +34,9 @@ Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you h
  zip -r submission_patches.zip submission_patches
  ```
 
-1. Email the .zip file to [devteam@renewfund.com](devteam@renewfund.com), and put the position you are applying for in the email's subject.
+1. Email the .zip file to [codechallengeanon@renewfinancial.com](codechallengeanon@renewfinancial.com), and put the position you are applying for in the email's subject.
+
+You submission will be anonymized before a developer on our team reviews it.
 
 If you have any questions about this submission process, feel free to email us.
 
@@ -46,7 +48,7 @@ Unfortunately, Github no longer allows you to fork a public repo and make it pri
 
 Renewable Funding has decided to enter the lucrative market of apparent-solar-time analysis.
 
-We want a user to be able to use our site to view an engaging design representing the sunrise and sunset in Portland for:
+We want a user to be able to use our site to view an engaging design representing the sunrise and sunset in Portland, OR for:
 
 1. The month of July 2017
 1. The week of July 2, 2017
