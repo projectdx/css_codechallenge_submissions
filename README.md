@@ -25,7 +25,7 @@ If you have any questions about this submission process, feel free to email us.
 
 Renewable Funding wants to gather feedback from users on our websites.
 
-We have designed a feedback form that show work well for both mobile and desktop users.
+We have designed a feedback form that show work well for both mobile and desktop users. It is shown in `frontend-ui-exercise.png`.
 
 Your task is to implement the mockup and any additional design details necessary to offer a good user experience.
 
